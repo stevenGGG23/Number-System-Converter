@@ -13,12 +13,7 @@ Looping: Allows repeated conversions until the user chooses to exit.
 
 Comments: Detailed comments are included in the code to explain the key parts of the program.
 
-A.I. Disclaimer: A statement confirming that the code was written independently without the use of artificial intelligence tools.
-
-Example Output
-bash
-Copy
-Edit
+bash'''
 --------------------------------
 Number System Converter
 --------------------------------
