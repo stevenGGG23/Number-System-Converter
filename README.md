@@ -13,7 +13,7 @@ Looping: Allows repeated conversions until the user chooses to exit.
 
 Comments: Detailed comments are included in the code to explain the key parts of the program.
 
-bash'''
+```bash
 --------------------------------
 Number System Converter
 --------------------------------
